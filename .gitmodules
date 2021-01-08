@@ -1,0 +1,21 @@
+[submodule "sources/nginx"]
+	path = sources/nginx
+	url = https://github.com/nginx/nginx.git
+[submodule "sources/openssl"]
+	path = sources/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "sources/zlib"]
+	path = sources/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "tools/nasm"]
+	path = tools/nasm
+	url = https://github.com/staticlibs/tools_windows_nasm.git
+[submodule "tools/msys"]
+	path = tools/msys
+	url = https://github.com/staticlibs/msys_1.0.11.git
+[submodule "tools/perl"]
+	path = tools/perl
+	url = https://github.com/staticlibs/tools_windows_perl520.git
+[submodule "sources/pcre"]
+	path = sources/pcre
+	url = https://github.com/staticlibs/pcre.git
